@@ -6,7 +6,7 @@
 - 💬 Ask me about React, Next.js, Node.js, GraphQL, Tailwind CSS, MongoDB, and more.
 - 📫 How to reach me: [Email](mailto:himanshikhandelwal81@gmail.com) | [LinkedIn](https://www.linkedin.com/in/himanshikh/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love coding and contributing to open source!
+- ⚡ Fun fact: I love coding and learn new tech stacks!
 
 ---
 
