@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Himanshi!
-### 🚀 Full Stack Developer | MERN Stack Enthusiast
+### 🚀 Full Stack Developer | Next.js | MERN Stack
 
 - 🔭 I’m currently working on the PRADAN project (NGO-focused platform).
 - 🌱 I’m currently learning Shopify development and expanding my backend skills.
